@@ -11,11 +11,13 @@ In reverse chronological order
 
 * [StarGANv2](https://arxiv.org/abs/1912.01865)
 * [CartonGAN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
+* [Resolution Dependant GAN Interpolation for Controllable Image Synthesis Between Domains](https://arxiv.org/abs/2010.05334v1)
 * [CycleGAN](https://arxiv.org/abs/1703.10593)
 
 ## Interpreting GANs
 
 * [White-box Cartoonization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_to_Cartoonize_Using_White-Box_Cartoon_Representations_CVPR_2020_paper.pdf)
+* [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
 
 ## GANs for high-resolution images
 In reverse chronological order 
