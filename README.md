@@ -24,6 +24,7 @@ In reverse chronological order
 
 - [ ] [StyleGANv2](https://arxiv.org/abs/1912.04958)
 - [BigGAN](https://arxiv.org/pdf/1806.06778.pdf)
+- [BigBiGan](https://arxiv.org/abs/1907.02544)
 
 ## Classic GANs
 In chronological order. 
@@ -50,3 +51,8 @@ tried and true.
 - [ ] [Which Training Methods for GANs do actually Converge?](https://arxiv.org/abs/1801.04406) 
 - [ ] [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
 - [ ] [The Unusual Effectiveness of Averaging in GAN Training](https://arxiv.org/abs/1806.04498)
+
+
+## Implementations
+
+- [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
