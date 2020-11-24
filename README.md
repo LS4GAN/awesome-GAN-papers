@@ -56,3 +56,8 @@ tried and true.
 ## Implementations
 
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
+
+## Possible
+
+- https://arxiv.org/abs/2011.03395 "Underspecification Presents Challenges for Credibility in
+Modern Machine Learning” might of interest to ML enthusiasts.
