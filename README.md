@@ -29,9 +29,9 @@ In reverse chronological order
 ## Classic GANs
 In chronological order. 
 
-- [ ] [GAN](https://arxiv.org/pdf/1406.2661.pdf)
-- [ ] [GAN Tutorial](https://arxiv.org/pdf/1701.00160.pdf)
-- [CGAN](https://arxiv.org/abs/1411.1784)
+- [x] [GAN](https://arxiv.org/pdf/1406.2661.pdf)
+- [x] [GAN Tutorial](https://arxiv.org/pdf/1701.00160.pdf)
+- [ ] [CGAN](https://arxiv.org/abs/1411.1784)
 - [DCGAN](https://arxiv.org/abs/1511.06434)
 - [WGAN](https://arxiv.org/abs/1701.07875)
 
@@ -53,11 +53,15 @@ tried and true.
 - [ ] [The Unusual Effectiveness of Averaging in GAN Training](https://arxiv.org/abs/1806.04498)
 
 
+## General
+
+- [ ] [Underspecification Presents Challenges for Credibility in Modern Machine Learning” might of interest to ML enthusiasts](https://arxiv.org/abs/2011.03395) 
+
 ## Implementations
 
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
 
-## Possible
 
-- https://arxiv.org/abs/2011.03395 "Underspecification Presents Challenges for Credibility in
-Modern Machine Learning” might of interest to ML enthusiasts.
+## Fun Reads
+
+- [Gwern's blog](gwern.net/)
