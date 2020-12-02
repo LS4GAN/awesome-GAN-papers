@@ -65,3 +65,7 @@ tried and true.
 ## Fun Reads
 
 - [Gwern's blog](gwern.net/)
+
+## Under consideration
+
+- [Graph Generative Adversarial Networks for Sparse Data Generation in High Energy Physics](https://arxiv.org/abs/2012.00173) Using GAN as a "fast simulation" to replace Geant4.  While this is not a goal of LS4GAN the use of sparse data on graphs may be a useful technique to handle LS4GAN's anticipated large but sparse events.
