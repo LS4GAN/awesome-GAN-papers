@@ -31,9 +31,9 @@ In chronological order.
 
 - [x] [GAN](https://arxiv.org/pdf/1406.2661.pdf)
 - [x] [GAN Tutorial](https://arxiv.org/pdf/1701.00160.pdf)
-- [ ] [CGAN](https://arxiv.org/abs/1411.1784)
-- [DCGAN](https://arxiv.org/abs/1511.06434)
-- [WGAN](https://arxiv.org/abs/1701.07875)
+- [x] [CGAN](https://arxiv.org/abs/1411.1784)
+- [ ] [DCGAN](https://arxiv.org/abs/1511.06434)
+- [ ] [WGAN](https://arxiv.org/abs/1701.07875)
 
 ## The other side of the coin
 It is hard to find a paper dedicated on the failures of the GAN techniques.  But
@@ -66,6 +66,12 @@ tried and true.
 
 - [Gwern's blog](gwern.net/)
 
-## Under consideration
+## GAN Applications in HEP and NP
 
-- [Graph Generative Adversarial Networks for Sparse Data Generation in High Energy Physics](https://arxiv.org/abs/2012.00173) Using GAN as a "fast simulation" to replace Geant4.  While this is not a goal of LS4GAN the use of sparse data on graphs may be a useful technique to handle LS4GAN's anticipated large but sparse events.
+- [ ] [Graph Generative Adversarial Networks for Sparse Data Generation in High Energy Physics](https://arxiv.org/abs/2012.00173) Using GAN as a "fast simulation" to replace Geant4.  While this is not a goal of LS4GAN the use of sparse data on graphs may be a useful technique to handle LS4GAN's anticipated large but sparse events.
+    - Here are some related papers on graph neurla networks (GNN) that might be helpful.
+    - [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) The start of graph convolutional networks by T. Kipf and M. Welling.
+    - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212) The most known graph conv network in physics and chemistry.  
+    - [Benchmarking Graph Neural Networks](https://arxiv.org/abs/2003.00982) A benchmark paper using different GNNs on different tasks.
+
+
