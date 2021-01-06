@@ -6,6 +6,8 @@ between two domains, something similar to the CycleGAN. This repo also includes
 historical important GAN papers, their difficulties in training,
 and various techniques to overcome such difficulties and improve the performance.
 
+## *NEXT PAPER: [White-box Cartoonization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_to_Cartoonize_Using_White-Box_Cartoon_Representations_CVPR_2020_paper.pdf)*
+
 ## GANs between domains
 In reverse chronological order 
 
@@ -68,7 +70,7 @@ tried and true.
 
 ## GAN Applications in HEP and NP
 
-- [ ] [Graph Generative Adversarial Networks for Sparse Data Generation in High Energy Physics](https://arxiv.org/abs/2012.00173) Using GAN as a "fast simulation" to replace Geant4.  While this is not a goal of LS4GAN the use of sparse data on graphs may be a useful technique to handle LS4GAN's anticipated large but sparse events.
+- [x] [Graph Generative Adversarial Networks for Sparse Data Generation in High Energy Physics](https://arxiv.org/abs/2012.00173) Using GAN as a "fast simulation" to replace Geant4.  While this is not a goal of LS4GAN the use of sparse data on graphs may be a useful technique to handle LS4GAN's anticipated large but sparse events.
     - Here are some related papers on graph neurla networks (GNN) that might be helpful.
     - [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) The start of graph convolutional networks by T. Kipf and M. Welling.
     - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212) The most known graph conv network in physics and chemistry.  
