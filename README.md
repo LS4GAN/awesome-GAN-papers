@@ -21,6 +21,13 @@ In reverse chronological order
 - [ ] [White-box Cartoonization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_to_Cartoonize_Using_White-Box_Cartoon_Representations_CVPR_2020_paper.pdf) [ref code](https://github.com/SystemErrorWang/White-box-Cartoonization)
 - [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
 
+## Controlling GAN
+
+- [ ] [Controlling generative models with continuous factors of variations](https://openreview.net/forum?id=H1laeJrKDB)
+- [ ] [Counterfactuals uncover the modular structure of deep generative models](https://openreview.net/forum?id=SJxDDpEKvH)
+- [ ] [Swapping Autoencoder for Deep Image Manipulation](https://arxiv.org/abs/2007.00653v1)
+
+
 ## GANs for high-resolution images
 In reverse chronological order 
 
@@ -35,7 +42,9 @@ In chronological order.
 - [x] [GAN Tutorial](https://arxiv.org/pdf/1701.00160.pdf)
 - [x] [CGAN](https://arxiv.org/abs/1411.1784)
 - [ ] [DCGAN](https://arxiv.org/abs/1511.06434)
+- [ ] [LSGAN](https://arxiv.org/abs/1611.04076)
 - [ ] [WGAN](https://arxiv.org/abs/1701.07875)
+- [ ] [SNGAN](https://arxiv.org/abs/1802.05957)
 
 ## The other side of the coin
 It is hard to find a paper dedicated on the failures of the GAN techniques.  But
