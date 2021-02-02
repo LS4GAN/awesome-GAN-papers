@@ -6,7 +6,7 @@ between two domains, something similar to the CycleGAN. This repo also includes
 historical important GAN papers, their difficulties in training,
 and various techniques to overcome such difficulties and improve the performance.
 
-## *NEXT PAPER: [White-box Cartoonization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_to_Cartoonize_Using_White-Box_Cartoon_Representations_CVPR_2020_paper.pdf)*
+## *NEXT PAPER: [Calo Gan](https://arxiv.org/abs/1712.10321) :  Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks*
 
 ## GANs between domains
 In reverse chronological order 
@@ -18,7 +18,7 @@ In reverse chronological order
 
 ## Interpreting GANs
 
-- [ ] [White-box Cartoonization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_to_Cartoonize_Using_White-Box_Cartoon_Representations_CVPR_2020_paper.pdf) [ref code](https://github.com/SystemErrorWang/White-box-Cartoonization)
+- [x] [White-box Cartoonization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_to_Cartoonize_Using_White-Box_Cartoon_Representations_CVPR_2020_paper.pdf) [ref code](https://github.com/SystemErrorWang/White-box-Cartoonization)
 - [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
 
 ## Controlling GAN
@@ -85,4 +85,4 @@ tried and true.
     - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212) The most known graph conv network in physics and chemistry.  
     - [Benchmarking Graph Neural Networks](https://arxiv.org/abs/2003.00982) A benchmark paper using different GNNs on different tasks.
 
-- [x] [Calo Gan](https://arxiv.org/abs/1712.10321) :  Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks
+- [ ] [Calo Gan](https://arxiv.org/abs/1712.10321) :  Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks
