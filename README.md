@@ -15,6 +15,7 @@ In reverse chronological order
 - [ ] [CartonGAN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 - [ ] [Resolution Dependant GAN Interpolation for Controllable Image Synthesis Between Domains](https://arxiv.org/abs/2010.05334v1)
 - [ ] [CycleGAN](https://arxiv.org/abs/1703.10593)
+- [ ] [SWAE](https://arxiv.org/abs/1804.01947)
 
 ## Interpreting GANs
 
@@ -86,3 +87,4 @@ tried and true.
     - [Benchmarking Graph Neural Networks](https://arxiv.org/abs/2003.00982) A benchmark paper using different GNNs on different tasks.
 
 - [ ] [Calo Gan](https://arxiv.org/abs/1712.10321) :  Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks
+- [ ] [OTUS](https://arxiv.org/abs/2101.08944)
