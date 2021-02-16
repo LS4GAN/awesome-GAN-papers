@@ -6,8 +6,7 @@ between two domains, something similar to the CycleGAN. This repo also includes
 historical important GAN papers, their difficulties in training,
 and various techniques to overcome such difficulties and improve the performance.
 
-## *NEXT PAPER: [AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)
-AI-based Monte Carlo event generator for electron-proton scattering *
+## *NEXT PAPER: [AI-based Monte Carlo event generator for electron-proton scattering))](https://arxiv.org/abs/2008.03151)*
 
 
 ## GANs between domains
