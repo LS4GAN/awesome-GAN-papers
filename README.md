@@ -6,7 +6,7 @@ between two domains, something similar to the CycleGAN. This repo also includes
 historical important GAN papers, their difficulties in training,
 and various techniques to overcome such difficulties and improve the performance.
 
-## *NEXT PAPER: [AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)*
+## *NEXT PAPER: [StyleGANv2](https://arxiv.org/abs/1912.04958)* 
 
 
 ## GANs between domains
@@ -89,4 +89,4 @@ tried and true.
 
 - [x] [Calo Gan](https://arxiv.org/abs/1712.10321) :  Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks
 - [ ] [OTUS](https://arxiv.org/abs/2101.08944)
-- [ ] [AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)
+- [x] [AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)
