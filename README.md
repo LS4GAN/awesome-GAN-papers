@@ -6,13 +6,16 @@ between two domains, something similar to the CycleGAN. This repo also includes
 historical important GAN papers, their difficulties in training,
 and various techniques to overcome such difficulties and improve the performance.
 
-## *NEXT PAPER: [StyleGANv2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/abs/2003.03581)*
+## *NEXT PAPER: [Pixel2Pixel Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)*
+## Optionally:  [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781v3)
+
 
 
 ## GANs between domains
 In reverse chronological order
 
 - [x] [StarGANv2](https://arxiv.org/abs/1912.01865)
+- [ ] [Unpaired Image-to-Image Translation using Adversarial Consistency Loss](https://arxiv.org/pdf/2003.04858.pdf)
 - [ ] [CartonGAN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 - [ ] [Resolution Dependant GAN Interpolation for Controllable Image Synthesis Between Domains](https://arxiv.org/abs/2010.05334v1)
 - [ ] [CycleGAN](https://arxiv.org/abs/1703.10593)
@@ -25,7 +28,7 @@ In reverse chronological order
 
 ## Controlling GAN
 
-- [ ] [StyleGANv2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/abs/2003.03581)
+- [x] [StyleGANv2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/abs/2003.03581)
 - [ ] [Controlling generative models with continuous factors of variations](https://openreview.net/forum?id=H1laeJrKDB)
 - [ ] [Counterfactuals uncover the modular structure of deep generative models](https://openreview.net/forum?id=SJxDDpEKvH)
 - [ ] [Swapping Autoencoder for Deep Image Manipulation](https://arxiv.org/abs/2007.00653v1)
@@ -37,6 +40,15 @@ In reverse chronological order
 - [x] [StyleGANv2](https://arxiv.org/abs/1912.04958)
 - [ ] [BigGAN](https://arxiv.org/pdf/1806.06778.pdf)
 - [ ] [BigBiGan](https://arxiv.org/abs/1907.02544)
+
+## Paired Image-to-Image Translation
+
+- [ ] [Pixel2Pixel Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
+- [ ] [Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2101.10979v2)
+- [ ] [SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects](https://arxiv.org/abs/2004.04977v2)
+- [ ] [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781v3)
+- [ ] [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/abs/1907.10830v4)
+
 
 ## Classic GANs
 In chronological order.
@@ -94,3 +106,4 @@ tried and true.
 - [ ] [OTUS](https://arxiv.org/abs/2101.08944)
 - [x] [AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)
 - [ ] [cFAT-GAN](https://ieeexplore.ieee.org/document/9356177)
+- [ ] [Simulation of electron-proton scattering events FAT-GAN](https://arxiv.org/abs/2001.11103)
