@@ -6,10 +6,15 @@ between two domains, something similar to the CycleGAN. This repo also includes
 historical important GAN papers, their difficulties in training,
 and various techniques to overcome such difficulties and improve the performance.
 
-## *NEXT PAPER: [Pixel2Pixel Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)*
-## Optionally:  [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781v3)
+## Vision Transformer
 
-
+- [ ] [07/12/21 Early Convolutions Help Transformers See Better](https://arxiv.org/abs/2106.14881)
+- [ ] [07/15/21 CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/pdf/2107.06263.pdf)
+- [ ] [07/10/21 Local-to-Global Self-Attention in Vision Transformers](https://arxiv.org/pdf/2107.04735.pdf)
+- [ ] [07/13/21 Visual Parser: Representing Part-whole Hierarchies
+with Transformers](https://arxiv.org/pdf/2107.05790.pdf)
+- [ ] [07/09/21 ViTGAN: Training GANs with Vision Transformers](https://arxiv.org/pdf/2107.04589.pdf)
+* [awesome Transformer in Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision)
 
 ## GANs between domains
 In reverse chronological order
