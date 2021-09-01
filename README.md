@@ -7,6 +7,7 @@ historical important GAN papers, their difficulties in training,
 and various techniques to overcome such difficulties and improve the performance.
 
 ## Vision Transformer
+- [ ] [05/28/21 Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)
 - [ ] [08/10/21 GANBERT: Generative Adversarial Networks with Bidirectional Encoder Representations from Transformers for MRI to PET synthesis](https://arxiv.org/pdf/2008.04393.pdf)
 - [ ] [07/12/21 Early Convolutions Help Transformers See Better](https://arxiv.org/abs/2106.14881)
 - [ ] [07/15/21 CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/pdf/2107.06263.pdf)
